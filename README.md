@@ -8,4 +8,4 @@ Cel: Przetrwanie przez jak najdłuższy czas.
 
 Sterowanie: Strzałki
 
-Gra uruchamia się w trybie pełnoekranowym i skaluje do rozdzielczości ekranu na którym została uruchomiona.
+Gra skaluje się do rozdzielczości ekranu na którym została uruchomiona i uruchamia w trybie pełnoekranowym.
